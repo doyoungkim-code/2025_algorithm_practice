@@ -14,7 +14,7 @@
 
 ### ⭐ **핵심 역량 테스트 문제** ⭐
 
-<details>
+<details open>
 <summary><strong>반드시 정복해야 할 주요 문제입니다! (08.14 출제) </strong></summary>
 <div markdown="1">
 
