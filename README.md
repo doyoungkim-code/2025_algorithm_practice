@@ -1,17 +1,3 @@
-# 🚀 구미_4반_김도영_알고과제 🚀
-<br>
-
-<details>
-<summary>🌟 <strong>복습할 문제 모음</strong></summary>
-<div markdown="1">
-
-- 1. 
-
-</div>
-</details>
-
----
-
 ### ⭐ **핵심 역량 테스트 문제** ⭐
 
 <details open>
